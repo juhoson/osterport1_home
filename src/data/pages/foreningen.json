@@ -1,0 +1,19 @@
+{
+  "id": "foreningen",
+  "title": "Föreningen",
+  "sections": [
+    {
+      "type": "text",
+      "content": "Brf Österport 1 är en bostadsrättsförening med 42 lägenheter i Västerås."
+    },
+    {
+      "type": "heading",
+      "content": "Om föreningen",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Föreningen bildades i samband med att fastigheten byggdes 2015. Vi strävar efter att skapa en trivsam boendemiljö för alla våra medlemmar."
+    }
+  ]
+}

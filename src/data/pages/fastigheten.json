@@ -1,0 +1,36 @@
+{
+  "id": "fastigheten",
+  "title": "Fastigheten",
+  "sections": [
+    {
+      "type": "text",
+      "content": "Brf Österport 1 består av ett modernt bostadshus med industriell karaktär."
+    },
+    {
+      "type": "heading",
+      "content": "Byggnationen 2015",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Fastigheten byggdes 2015 och kombinerar modern arkitektur med klassisk tegelmurad fasad."
+    },
+    {
+      "type": "image-gallery",
+      "images": [
+        "/2015/006E4C4D-4EC0-4FA5-B3A9-BF7AF1389804_1_105_c.jpeg",
+        "/2015/020546A1-0DE0-4102-9EAC-053E22F4CDEA_1_105_c.jpeg",
+        "/2015/0808EA3E-952D-4791-BB4E-3EA111F3800B_1_105_c.jpeg",
+        "/2015/10370905-361E-4AF7-BA6E-C15CF939433D_1_105_c.jpeg",
+        "/2015/14E76BDB-25A0-4B0E-B2E3-23C01E5C1517_1_105_c.jpeg",
+        "/2015/18389938-559F-4956-8942-3E0DEEF2B4E9_1_105_c.jpeg",
+        "/2015/209DB69C-8528-4B5E-8A16-4F70DF74C994_1_105_c.jpeg",
+        "/2015/233BBB61-B8F9-42FA-B253-7CAB91C8AE0A_1_105_c.jpeg",
+        "/2015/2E3774E7-34BA-43E2-A689-17D7D0E1F130_1_105_c.jpeg",
+        "/2015/372D00DA-6FE1-450F-A8A6-DA0B9BA6DB12_1_105_c.jpeg",
+        "/2015/4A389148-4801-44F2-B1D2-00D73701EC82_1_105_c.jpeg",
+        "/2015/62342724-BC4A-4BA5-AAE0-E431484C4938_1_105_c.jpeg"
+      ]
+    }
+  ]
+}

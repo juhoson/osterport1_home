@@ -1,0 +1,24 @@
+{
+  "id": "faq",
+  "title": "Vanliga frågor och svar",
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Hur kontaktar jag styrelsen?",
+      "level": 3
+    },
+    {
+      "type": "text",
+      "content": "Du hittar kontaktuppgifter till styrelsen på startsidan."
+    },
+    {
+      "type": "heading",
+      "content": "Var hittar jag trivselreglerna?",
+      "level": 3
+    },
+    {
+      "type": "text",
+      "content": "Trivselreglerna finns under menyn 'Trivselregler'."
+    }
+  ]
+}

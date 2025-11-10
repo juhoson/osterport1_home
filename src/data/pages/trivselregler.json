@@ -1,0 +1,24 @@
+{
+  "id": "trivselregler",
+  "title": "Trivselregler",
+  "sections": [
+    {
+      "type": "text",
+      "content": "För att alla ska trivas i vår förening har vi gemensamma trivselregler."
+    },
+    {
+      "type": "heading",
+      "content": "Ordningsregler",
+      "level": 2
+    },
+    {
+      "type": "list",
+      "items": [
+        "Håll god ordning i gemensamma utrymmen",
+        "Respektera grannarnas behov av lugn och ro",
+        "Följ avfallshanteringsrutinerna",
+        "Håll gården och entrén ren och välskött"
+      ]
+    }
+  ]
+}

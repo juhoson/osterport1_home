@@ -1,0 +1,27 @@
+<svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Building icon -->
+  <g id="building">
+    <!-- Main building structure -->
+    <rect x="10" y="25" width="40" height="45" fill="#2C5F7C" rx="2"/>
+
+    <!-- Windows -->
+    <rect x="16" y="32" width="8" height="8" fill="#E8F1F5" rx="1"/>
+    <rect x="32" y="32" width="8" height="8" fill="#E8F1F5" rx="1"/>
+    <rect x="16" y="44" width="8" height="8" fill="#E8F1F5" rx="1"/>
+    <rect x="32" y="44" width="8" height="8" fill="#E8F1F5" rx="1"/>
+    <rect x="16" y="56" width="8" height="8" fill="#E8F1F5" rx="1"/>
+    <rect x="32" y="56" width="8" height="8" fill="#E8F1F5" rx="1"/>
+
+    <!-- Door -->
+    <rect x="24" y="60" width="12" height="10" fill="#1A3A4D" rx="1"/>
+
+    <!-- Roof accent -->
+    <path d="M 8 25 L 30 15 L 52 25" stroke="#1A3A4D" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Text: Brf -->
+  <text x="65" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#2C5F7C">Brf</text>
+
+  <!-- Text: Österport 1 -->
+  <text x="65" y="55" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1A3A4D">Österport 1</text>
+</svg>

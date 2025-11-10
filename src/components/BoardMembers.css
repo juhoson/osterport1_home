@@ -1,0 +1,66 @@
+.board-members {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.board-member {
+  background-color: #F8FBFC;
+  border: 1px solid #E0EBF0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.board-member:hover {
+  box-shadow: 0 4px 12px rgba(44, 95, 124, 0.1);
+  transform: translateY(-2px);
+}
+
+.member-info {
+  flex: 1;
+}
+
+.member-name {
+  font-size: 1.2rem;
+  color: #1A3A4D;
+  margin: 0 0 0.5rem 0;
+  font-weight: 600;
+}
+
+.member-role {
+  color: #5A7D91;
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.member-phone {
+  color: #2C5F7C;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.95rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: color 0.2s ease;
+}
+
+.member-phone:hover {
+  color: #1A3A4D;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .board-members {
+    grid-template-columns: 1fr;
+  }
+
+  .board-member {
+    padding: 1.25rem;
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "home",
+  "title": "Välkommen till Brf Österport 1",
+  "sections": [
+    {
+      "type": "text",
+      "content": "Denna bostadsrättsförening har 42 lägenheter och ligger i Västerås."
+    },
+    {
+      "type": "text",
+      "content": "I Österport har du inte bara nära till centrum, du är redan där. I detta trendiga kvarter har du såväl shopping och kulturliv som stadens parker bara ett stenkast bort."
+    },
+    {
+      "type": "text",
+      "content": "Det moderna bostadshuset får en industriell touch av dess rejäla fönsterpartier och den klassiska tegelmurade fasaden. Den binder samman det nya med det gamla och flirtar med områdets kulturhistoria."
+    },
+    {
+      "type": "text",
+      "content": "Innanför husets rymliga entréer finns smarta, yteffektiva lägenheter med väl tilltagna ytor som bjuder in till social samvaro. Alla lägenheter har balkong eller uteplats mot en härlig gård som ger ett kontrasterande lugn till stadskärnans puls."
+    },
+    {
+      "type": "heading",
+      "content": "Styrelse och kontaktuppgifter 2025",
+      "level": 2
+    },
+    {
+      "type": "board-members",
+      "items": [
+        {
+          "name": "Linda Höglund",
+          "role": "Ledamot / Ordförande",
+          "phone": "+46 707 22 81 09"
+        },
+        {
+          "name": "Owe Bamberg",
+          "role": "Ledamot / Vice värd",
+          "phone": "+46 705 45 83 40"
+        },
+        {
+          "name": "Åsa Sandberg",
+          "role": "Ledamot / Parkeringsansvarig",
+          "phone": "+46 762 68 73 53"
+        },
+        {
+          "name": "Per-Olof Karlsson",
+          "role": "Ledamot / Ekonomiansvarig",
+          "phone": "+46 707 22 53 97"
+        },
+        {
+          "name": "Christina Aronsson",
+          "role": "Ledamot / Sekreterare",
+          "phone": "+46 704 33 92 59"
+        },
+        {
+          "name": "Peter Fransson",
+          "role": "Suppleant",
+          "phone": "+46 760 11 90 50"
+        },
+        {
+          "name": "Juho Songer",
+          "role": "Suppleant",
+          "phone": "+46 739 20 24 90"
+        }
+      ]
+    }
+  ]
+}

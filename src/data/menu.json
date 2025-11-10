@@ -1,0 +1,38 @@
+[
+  {
+    "id": "home",
+    "label": "Hem",
+    "path": "/",
+    "order": 1
+  },
+  {
+    "id": "bostaden",
+    "label": "Bostaden",
+    "path": "/bostaden",
+    "order": 2
+  },
+  {
+    "id": "fastigheten",
+    "label": "Fastigheten",
+    "path": "/fastigheten",
+    "order": 3
+  },
+  {
+    "id": "foreningen",
+    "label": "Föreningen",
+    "path": "/foreningen",
+    "order": 4
+  },
+  {
+    "id": "faq",
+    "label": "Vanliga frågor och svar",
+    "path": "/faq",
+    "order": 5
+  },
+  {
+    "id": "trivselregler",
+    "label": "Trivselregler",
+    "path": "/trivselregler",
+    "order": 6
+  }
+]
