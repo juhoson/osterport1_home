@@ -46,6 +46,39 @@ h3.section-heading {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
+.document-link {
+  margin: 1.5rem 0;
+}
+
+.document-link-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 1.5rem;
+  background-color: #2C5F7C;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 8px rgba(44, 95, 124, 0.2);
+}
+
+.document-link-button:hover {
+  background-color: #1A3A4D;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(44, 95, 124, 0.3);
+}
+
+.document-link-button:active {
+  transform: translateY(0);
+}
+
+.document-icon {
+  flex-shrink: 0;
+}
+
 @media (max-width: 768px) {
   .section-heading {
     margin-top: 1.5rem;
@@ -61,5 +94,10 @@ h3.section-heading {
 
   .section-gallery {
     grid-template-columns: 1fr;
+  }
+
+  .document-link-button {
+    width: 100%;
+    justify-content: center;
   }
 }

@@ -6,33 +6,39 @@
     "order": 1
   },
   {
+    "id": "aktuellt",
+    "label": "Aktuellt",
+    "path": "/aktuellt",
+    "order": 2
+  },
+  {
     "id": "bostaden",
     "label": "Bostaden",
     "path": "/bostaden",
-    "order": 2
+    "order": 3
   },
   {
     "id": "fastigheten",
     "label": "Fastigheten",
     "path": "/fastigheten",
-    "order": 3
+    "order": 4
   },
   {
     "id": "foreningen",
     "label": "Föreningen",
     "path": "/foreningen",
-    "order": 4
+    "order": 5
   },
   {
     "id": "faq",
     "label": "Vanliga frågor och svar",
     "path": "/faq",
-    "order": 5
+    "order": 6
   },
   {
     "id": "trivselregler",
     "label": "Trivselregler",
     "path": "/trivselregler",
-    "order": 6
+    "order": 7
   }
 ]

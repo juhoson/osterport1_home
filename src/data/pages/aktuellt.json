@@ -1,0 +1,52 @@
+{
+  "id": "aktuellt",
+  "title": "Aktuellt",
+  "sections": [
+    {
+      "type": "news-list",
+      "items": [
+        {
+          "date": "2025-10-01",
+          "title": "Tillfälligt paus i sophämtning i miljörummet",
+          "content": "Idag har styrelsen fått till kännedom att VAFAB inte tömmer soporna i miljörummet pga arbetsmiljöskäl så länge arbetet med cyckelvägen pågår utanför på ringvägen. Vi kommer att arbeta för att få soporna tömda så fort som praktiskt möjlig.",
+          "updated": "2025-10-03 Miljörummet är tömd och är åter i bruk"
+        },
+        {
+          "date": "2025-09-23",
+          "title": "Påminnelse om parkeringsförbud på innergården",
+          "content": "Styrelsen vill påminna om att det råder parkeringsförbud på innegården. Det är mycket viktigt att brandbilarna kan ta sig fram i händelse av en brand."
+        },
+        {
+          "date": "2025-09-03",
+          "title": "Nytt välkomstbrev för nyinflyttade",
+          "content": "Styrelsen har reviderat välkomstbrevet för nyinflyttade, den nya versionen hittar ni här."
+        },
+        {
+          "date": "2025-05-19",
+          "title": "Nya TV-Boxar från Telia",
+          "content": "Vissa tv boxar med modellnummer 1003, 1113, 1903, 1963 samt 2853 kommer sluta fungera i höst. Om du har någon av ovanstående modellnummer kan du komma och byta ut din tv box hos Höglund/Songer, söndagen den 25/5 mellan kl 14-16."
+        },
+        {
+          "date": "2025-02-10",
+          "title": "Information angående kalla element",
+          "content": "Alla lägenheter i föreningen har upplevt problem med kalla element sedan förra veckan, detta har idag åtgärdats at Mark. Upplever ni att det är fortsatta problem, hör gärna av er till styrelsen."
+        },
+        {
+          "date": "2024-04-29",
+          "title": "Kallelse till årsmöte för brf Österport 1",
+          "content": "Årsmötet för brf Österport 1 kommer att hållas hos MBF den 8 Maj kl 18.00. Välkomna!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Information för nyinflyttade",
+      "level": 2
+    },
+    {
+      "type": "document-link",
+      "url": "/documents/välkomstbrev_brfOsterport1.pdf",
+      "linkText": "Ladda ner välkomstbrev för nyinflyttade (PDF)"
+    }
+  ]
+}
