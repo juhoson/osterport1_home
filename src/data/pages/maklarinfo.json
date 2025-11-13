@@ -16,8 +16,15 @@
       "content": "Denna informationen riktar sig till dig som mäklare som ska förmedla en lägenhet i BRF Österport 1. Det finns mycket information tillgänglig här på hemsidan som du bör läsa igenom för att få en bra bild av föreningen. Nedan presenteras sådan information som mäklare specifikt brukar fråga efter och vi har därför försökt samla den på en plats. För övriga frågor kontakta styrelsen."
     },
     {
-      "type": "text",
-      "content": "Informationen uppdaterades senast 2025-05-06"
+      "type": "info-box",
+      "highlight": true,
+      "items": [
+        {
+          "label": "Senast uppdaterad",
+          "value": "2025-05-06",
+          "type": "text"
+        }
+      ]
     },
     {
       "type": "heading",
@@ -38,16 +45,40 @@
       "content": "Pantsättningar skickas till föreningens förvaltare:"
     },
     {
-      "type": "text",
-      "content": "MBF Mälardalens Bostadsrättsförvaltning\nKällgatan 14\n722 11 Västerås"
+      "type": "info-box",
+      "title": "MBF Mälardalens Bostadsrättsförvaltning",
+      "items": [
+        {
+          "value": "MBF Mälardalens Bostadsrättsförvaltning\nKällgatan 14\n722 11 Västerås",
+          "type": "address"
+        }
+      ]
     },
     {
       "type": "text",
       "content": "MBF lägger in pantsättning i föreningens lägenhetsregister, noterar ev. tidigare pantsättningar på pantsättningen, undertecknar pantsättning och tillser att banken får den i retur."
     },
     {
-      "type": "text",
-      "content": "Pantsättningsavgift tas ut med max 1 procent av ett prisbasbelopp, vilket i 2024 års kostnadsläge är 573 kr. Styrelsen kan i enlighet med stadgarna fatta beslut om att sådan avgift tas ut av pantsättaren."
+      "type": "info-box",
+      "highlight": true,
+      "title": "Pantsättningsavgift",
+      "items": [
+        {
+          "label": "Avgift",
+          "value": "Max 1% av prisbasbelopp",
+          "type": "text"
+        },
+        {
+          "label": "2024 års kostnadsläge",
+          "value": "573 kr",
+          "type": "text"
+        },
+        {
+          "label": "Betalas av",
+          "value": "Pantsättaren",
+          "type": "text"
+        }
+      ]
     },
     {
       "type": "heading",
@@ -59,20 +90,61 @@
       "content": "Överlåtelser ska skickas till:"
     },
     {
-      "type": "text",
-      "content": "MBF Mälardalens Bostadsrättsförvaltning\nKällgatan 14\n722 11 Västerås"
+      "type": "info-box",
+      "title": "MBF Mälardalens Bostadsrättsförvaltning",
+      "items": [
+        {
+          "value": "MBF Mälardalens Bostadsrättsförvaltning\nKällgatan 14\n722 11 Västerås",
+          "type": "address"
+        }
+      ]
     },
     {
-      "type": "text",
-      "content": "Överlåtelseavgift tas ut med max 2,5 procent av ett prisbasbelopp, vilket i 2024 års kostnadsläge är 1432,5 kr. Styrelsen kan i enlighet med stadgarna fatta beslut om att sådan avgift tas ut av köparen."
+      "type": "info-box",
+      "highlight": true,
+      "title": "Överlåtelseavgift",
+      "items": [
+        {
+          "label": "Avgift",
+          "value": "Max 2,5% av prisbasbelopp",
+          "type": "text"
+        },
+        {
+          "label": "2024 års kostnadsläge",
+          "value": "1 432,5 kr",
+          "type": "text"
+        },
+        {
+          "label": "Betalas av",
+          "value": "Köparen",
+          "type": "text"
+        }
+      ]
     },
     {
       "type": "text",
       "content": "Vid förfrågan om mäklarbild hänvisar vi till:"
     },
     {
-      "type": "text",
-      "content": "MBF\nmbf.se\nmaklarbild@mbf.se"
+      "type": "info-box",
+      "title": "Mäklarbild",
+      "items": [
+        {
+          "label": "Organisation",
+          "value": "MBF",
+          "type": "text"
+        },
+        {
+          "label": "Webbplats",
+          "value": "mbf.se",
+          "type": "website"
+        },
+        {
+          "label": "E-post",
+          "value": "maklarbild@mbf.se",
+          "type": "email"
+        }
+      ]
     },
     {
       "type": "heading",
@@ -102,8 +174,18 @@
       "level": 2
     },
     {
-      "type": "text",
-      "content": "Bostadsrättsföreningen anlitar Mark AB för föreningens förvaltning och dagliga underhåll."
+      "type": "info-box",
+      "items": [
+        {
+          "label": "Förvaltare",
+          "value": "Mark AB",
+          "type": "text"
+        },
+        {
+          "value": "Ansvarar för föreningens förvaltning och dagliga underhåll",
+          "type": "text"
+        }
+      ]
     },
     {
       "type": "heading",
@@ -111,8 +193,35 @@
       "level": 2
     },
     {
-      "type": "text",
-      "content": "Föreningen hyr 34 parkeringsplatser för medlemmar i Östermalmsgaraget i fastigheten Mimer 6. Medlemmarna kan hyra parkering av föreningen mot en månadlig avgift om 600 kr. En parkeringsplats \"ärvs\" inte från säljare till köpare utan återförs till föreningen i samband med utträdet ur föreningen. Kö till föreningens parkering sköts av Mälardalens Bostädsrättsförvaltning MBF."
+      "type": "info-box",
+      "title": "Parkeringsinformation",
+      "items": [
+        {
+          "label": "Antal platser",
+          "value": "34 parkeringsplatser",
+          "type": "text"
+        },
+        {
+          "label": "Plats",
+          "value": "Östermalmsgaraget (fastigheten Mimer 6)",
+          "type": "text"
+        },
+        {
+          "label": "Månadsavgift",
+          "value": "600 kr",
+          "type": "text"
+        },
+        {
+          "label": "Viktigt",
+          "value": "Parkeringsplats 'ärvs' INTE från säljare till köpare utan återförs till föreningen vid utträde",
+          "type": "text"
+        },
+        {
+          "label": "Kö hanteras av",
+          "value": "Mälardalens Bostadsrättsförvaltning MBF",
+          "type": "text"
+        }
+      ]
     },
     {
       "type": "heading",
@@ -121,13 +230,31 @@
     },
     {
       "type": "text",
-      "content": "Det finns ett avtal mellan bostadsrättsföreningen och Telia om installation av bredband i alla bostäder. Bredbandsnätet består av en fiberkabel med så kallad Triple Play-funktion som levererar Digital-tv, telefon och Internetanslutning. Följande ingår:"
+      "content": "Det finns ett avtal mellan bostadsrättsföreningen och Telia om installation av bredband i alla bostäder. Bredbandsnätet består av en fiberkabel med så kallad Triple Play-funktion som levererar Digital-tv, telefon och Internetanslutning."
     },
     {
-      "type": "list",
+      "type": "info-box",
+      "title": "Telia Triple Play - Inkluderat",
       "items": [
-        "En digitalbox (kollektiv box som tillhör bostadsföreningen och levereras till lägenheten före inflyttning). Observera att digitalboxen är knuten till det avtal som gäller mellan bostadsrättsföreningen och Telia. Du får alltså inte ta dem med dig om du flyttar.",
-        "Abonnemang och telefonadapter som möjliggör upp till fyra telefoner till samma telefonnummer."
+        {
+          "value": "En digitalbox (kollektiv box som tillhör bostadsföreningen och levereras till lägenheten före inflyttning)",
+          "type": "text"
+        },
+        {
+          "value": "Abonnemang och telefonadapter som möjliggör upp till fyra telefoner till samma telefonnummer",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "info-box",
+      "highlight": true,
+      "items": [
+        {
+          "label": "⚠️ Viktigt",
+          "value": "Digitalboxen är knuten till avtalet mellan bostadsrättsföreningen och Telia. Den får INTE tas med vid flytt.",
+          "type": "text"
+        }
       ]
     },
     {
@@ -136,8 +263,18 @@
       "level": 2
     },
     {
-      "type": "text",
-      "content": "Det är möjligt att hyra ut en gästlägenhet i grannföreningen Österport 5. År 2023 var hyran 300 kr/natt."
+      "type": "info-box",
+      "items": [
+        {
+          "value": "Det är möjligt att hyra ut en gästlägenhet i grannföreningen Österport 5",
+          "type": "text"
+        },
+        {
+          "label": "Hyra (2023)",
+          "value": "300 kr/natt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }

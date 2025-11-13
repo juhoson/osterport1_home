@@ -4,7 +4,176 @@
   "sections": [
     {
       "type": "text",
-      "content": "Information om lägenheterna i Brf Österport 1 kommer snart."
+      "content": "I Österport har du inte bara nära till centrum – du är redan där. I dessa trendiga kvarter har du shopping, kulturliv och stadens parker bara ett stenkast bort."
+    },
+    {
+      "type": "heading",
+      "content": "Parkering",
+      "level": 2
+    },
+    {
+      "type": "info-box",
+      "title": "Parkeringsinformation",
+      "items": [
+        {
+          "label": "Plats",
+          "value": "Östermalmsgaraget",
+          "type": "text"
+        },
+        {
+          "label": "För att få en plats",
+          "value": "Ring MBF på 021-41 33 00",
+          "type": "text"
+        },
+        {
+          "label": "När du fått en plats",
+          "value": "Kontakta Åsa Sandberg på 076-268 73 53 för parkeringskort och avtal",
+          "type": "phone"
+        },
+        {
+          "value": "Platser fördelas i turordning vid kö",
+          "type": "text"
+        },
+        {
+          "value": "Max 1 plats per lägenhet",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Förvaring och gemensamma utrymmen",
+      "level": 2
+    },
+    {
+      "type": "info-box",
+      "items": [
+        {
+          "label": "Cykelrum",
+          "value": "Finns i källaren på Stora Gatan 1A",
+          "type": "text"
+        },
+        {
+          "label": "Barnvagnsrum",
+          "value": "Finns i källaren i både 1A och 1B",
+          "type": "text"
+        },
+        {
+          "label": "Källare/förråd",
+          "value": "På grund av inbrottsrisk rekommenderar styrelsen att använda 2 bygellås",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Avfall och återvinning",
+      "level": 2
+    },
+    {
+      "type": "info-box",
+      "title": "Miljörum",
+      "items": [
+        {
+          "label": "Plats",
+          "value": "Ligger i Österport 2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "info-box",
+      "highlight": true,
+      "items": [
+        {
+          "label": "⚠️ OBS",
+          "value": "Grovsopor och skrymmande kartonger tar du själv till återvinningscentral – lämna inte dessa i miljörummet.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Bostadspärm",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "När du tog över din lägenhet skulle du ha fått en bostadspärm med information om bland annat underhåll i lägenheten."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kontakta din mäklare om du inte fått pärmen",
+        "Pärmen hör till lägenheten och ska stanna kvar vid försäljning"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "TV, bredband och telefoni",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Vi har avtal med Telia och alla lägenheter har Telia Triple Play."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Avgiften ingår i din månadsavgift",
+        "Du väljer och betalar själv om du vill utöka utbudet",
+        "Problem med TV/bredband? Kontakta Telia direkt"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Vattenavstängning",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Vattnet kan stängas av separat för varje lägenhet vid till exempel renovering. Avstängning för vatten finns på varje våningsplan i skåpen mellan lägenheterna:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Ett skåp för varmvatten",
+        "Ett skåp för kallvatten"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Felanmälan",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Görs till någon av oss i styrelsen (se hemsidan för kontaktuppgifter eller kontakta vicevärden Owe Bamberg på 070-545 83 40)."
+    },
+    {
+      "type": "info-box",
+      "highlight": true,
+      "items": [
+        {
+          "label": "⚠️ Viktigt",
+          "value": "Åtgärder som utförs utan att styrelsen gjort anmälan bekostas av lägenhetsinnehavaren.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Information för nyinflyttade",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "För mer detaljerad information, ladda ner vårt välkomstbrev för nyinflyttade:"
+    },
+    {
+      "type": "document-link",
+      "url": "/documents/välkomstbrev_brfOsterport1.pdf",
+      "linkText": "Ladda ner välkomstbrev (PDF)"
     }
   ]
 }

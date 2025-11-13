@@ -1,7 +1,8 @@
 import React from 'react';
-import { ContentSection as ContentSectionType, BoardMember, NewsItem } from '../types/content';
+import { ContentSection as ContentSectionType, BoardMember, NewsItem, InfoBoxItem } from '../types/content';
 import BoardMembers from './BoardMembers';
 import NewsItems from './NewsItems';
+import InfoBox from './InfoBox';
 import './ContentSection.css';
 
 interface ContentSectionProps {
@@ -58,6 +59,16 @@ const ContentSection: React.FC<ContentSectionProps> = ({ section }) => {
             {section.linkText || 'Ladda ner dokument'}
           </a>
         </div>
+      );
+
+    case 'info-box':
+    case 'contact-card':
+      return (
+        <InfoBox
+          title={section.title}
+          items={section.items as InfoBoxItem[]}
+          highlight={section.highlight}
+        />
       );
 
     default:
