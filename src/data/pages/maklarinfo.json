@@ -1,0 +1,143 @@
+{
+  "id": "maklarinfo",
+  "title": "Information till mäklare",
+  "sections": [
+    {
+      "type": "text",
+      "content": "För att kunna ge lägenhetsköpare bra och relevant information har vi här sammanställt viktiga fakta om föreningen."
+    },
+    {
+      "type": "heading",
+      "content": "Föreningen",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Denna informationen riktar sig till dig som mäklare som ska förmedla en lägenhet i BRF Österport 1. Det finns mycket information tillgänglig här på hemsidan som du bör läsa igenom för att få en bra bild av föreningen. Nedan presenteras sådan information som mäklare specifikt brukar fråga efter och vi har därför försökt samla den på en plats. För övriga frågor kontakta styrelsen."
+    },
+    {
+      "type": "text",
+      "content": "Informationen uppdaterades senast 2025-05-06"
+    },
+    {
+      "type": "heading",
+      "content": "Besiktning av lägenhet – undersökningsplikt",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Föreningen ombesörjer ingen besiktning av lägenhet i samband med överlåtelse. Det är mäklarens uppgift att upplysa presumtiva köpare om den undersökningsplikt som råder och vad som faktiskt inbegrips i begreppet."
+    },
+    {
+      "type": "heading",
+      "content": "Pantsättning",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Pantsättningar skickas till föreningens förvaltare:"
+    },
+    {
+      "type": "text",
+      "content": "MBF Mälardalens Bostadsrättsförvaltning\nKällgatan 14\n722 11 Västerås"
+    },
+    {
+      "type": "text",
+      "content": "MBF lägger in pantsättning i föreningens lägenhetsregister, noterar ev. tidigare pantsättningar på pantsättningen, undertecknar pantsättning och tillser att banken får den i retur."
+    },
+    {
+      "type": "text",
+      "content": "Pantsättningsavgift tas ut med max 1 procent av ett prisbasbelopp, vilket i 2024 års kostnadsläge är 573 kr. Styrelsen kan i enlighet med stadgarna fatta beslut om att sådan avgift tas ut av pantsättaren."
+    },
+    {
+      "type": "heading",
+      "content": "Överlåtelse",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Överlåtelser ska skickas till:"
+    },
+    {
+      "type": "text",
+      "content": "MBF Mälardalens Bostadsrättsförvaltning\nKällgatan 14\n722 11 Västerås"
+    },
+    {
+      "type": "text",
+      "content": "Överlåtelseavgift tas ut med max 2,5 procent av ett prisbasbelopp, vilket i 2024 års kostnadsläge är 1432,5 kr. Styrelsen kan i enlighet med stadgarna fatta beslut om att sådan avgift tas ut av köparen."
+    },
+    {
+      "type": "text",
+      "content": "Vid förfrågan om mäklarbild hänvisar vi till:"
+    },
+    {
+      "type": "text",
+      "content": "MBF\nmbf.se\nmaklarbild@mbf.se"
+    },
+    {
+      "type": "heading",
+      "content": "Individuell varmvattenmätning",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Huset har mätare installerade till varje lägenhet för att mäta varmvattenförbrukningen. Varmvattnet debiteras respektive bostadsrättshavare relaterat till uppmätt förbrukning."
+    },
+    {
+      "type": "text",
+      "content": "Systemet är ett trådlöst system som samlar in mätdata från respektive lägenhet utan manuell avläsning. Mätdatat samlas ihop centralt och debiteringen sker efter faktisk förbrukning i efterskott hos er ekonomiska förvaltare. Förbrukningen för tre månader kommer som en separat post på den första avin i varje kvartal."
+    },
+    {
+      "type": "heading",
+      "content": "Bostadsrättstillägg",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Föreningen tecknar en kollektiv bostadsrättstilläggsförsäkring och då räcker det med den vanliga hemförsäkringen för alla medlemmar i huset."
+    },
+    {
+      "type": "heading",
+      "content": "Förvaltning & Underhåll",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Bostadsrättsföreningen anlitar Mark AB för föreningens förvaltning och dagliga underhåll."
+    },
+    {
+      "type": "heading",
+      "content": "Parkering",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Föreningen hyr 34 parkeringsplatser för medlemmar i Östermalmsgaraget i fastigheten Mimer 6. Medlemmarna kan hyra parkering av föreningen mot en månadlig avgift om 600 kr. En parkeringsplats \"ärvs\" inte från säljare till köpare utan återförs till föreningen i samband med utträdet ur föreningen. Kö till föreningens parkering sköts av Mälardalens Bostädsrättsförvaltning MBF."
+    },
+    {
+      "type": "heading",
+      "content": "TV, telefon och data",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Det finns ett avtal mellan bostadsrättsföreningen och Telia om installation av bredband i alla bostäder. Bredbandsnätet består av en fiberkabel med så kallad Triple Play-funktion som levererar Digital-tv, telefon och Internetanslutning. Följande ingår:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "En digitalbox (kollektiv box som tillhör bostadsföreningen och levereras till lägenheten före inflyttning). Observera att digitalboxen är knuten till det avtal som gäller mellan bostadsrättsföreningen och Telia. Du får alltså inte ta dem med dig om du flyttar.",
+        "Abonnemang och telefonadapter som möjliggör upp till fyra telefoner till samma telefonnummer."
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Gästlägenhet",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Det är möjligt att hyra ut en gästlägenhet i grannföreningen Österport 5. År 2023 var hyran 300 kr/natt."
+    }
+  ]
+}

@@ -40,5 +40,11 @@
     "label": "Trivselregler",
     "path": "/trivselregler",
     "order": 7
+  },
+  {
+    "id": "maklarinfo",
+    "label": "Information för mäklare",
+    "path": "/maklarinfo",
+    "order": 8
   }
 ]
