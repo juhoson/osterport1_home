@@ -1,0 +1,56 @@
+{
+  "id": "varmvattenmatning",
+  "title": "Individuell varmvattenmätning",
+  "sections": [
+    {
+      "type": "text",
+      "content": "Huset har mätare installerade till varje lägenhet för att mäta varmvattenförbrukningen. Varmvattnet debiteras respektive bostadsrättshavare relaterat till uppmätt förbrukning."
+    },
+    {
+      "type": "text",
+      "content": "Systemet är ett trådlöst system som samlar in mätdata från respektive lägenhet utan manuell avläsning. Mätdatat samlas ihop centralt och debiteringen sker efter faktisk förbrukning i efterskott hos er ekonomiska förvaltare. Förbrukningen för tre månader kommer som en separat post på den första avin i varje kvartal."
+    },
+    {
+      "type": "heading",
+      "content": "Frågor och support",
+      "level": 2
+    },
+    {
+      "type": "info-box",
+      "title": "Frågor om debitering",
+      "items": [
+        {
+          "label": "Kontakt",
+          "value": "MBF",
+          "type": "text"
+        },
+        {
+          "label": "Telefon",
+          "value": "021-40 33 00",
+          "type": "phone"
+        },
+        {
+          "label": "E-post",
+          "value": "info@mbf.se",
+          "type": "email"
+        }
+      ]
+    },
+    {
+      "type": "info-box",
+      "title": "Misstänkt fel på mätare",
+      "items": [
+        {
+          "label": "Kontakt",
+          "value": "Minol direkt",
+          "type": "text"
+        },
+        {
+          "label": "Telefon",
+          "value": "040-411 999",
+          "type": "phone"
+        }
+      ]
+    }
+  ]
+}

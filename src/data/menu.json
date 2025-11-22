@@ -15,7 +15,39 @@
     "id": "bostaden",
     "label": "Bostaden",
     "path": "/bostaden",
-    "order": 3
+    "order": 3,
+    "children": [
+      {
+        "id": "tv-telefon-data",
+        "label": "TV, telefon och data",
+        "path": "/tv-telefon-data",
+        "order": 1
+      },
+      {
+        "id": "varmvattenmatning",
+        "label": "Varmvattenmätning",
+        "path": "/varmvattenmatning",
+        "order": 2
+      },
+      {
+        "id": "nyckeladministration",
+        "label": "Nyckeladministration",
+        "path": "/nyckeladministration",
+        "order": 3
+      },
+      {
+        "id": "balkong-uteplats",
+        "label": "Balkong och uteplats",
+        "path": "/balkong-uteplats",
+        "order": 4
+      },
+      {
+        "id": "andrahandsuthyrning",
+        "label": "Andrahandsuthyrning",
+        "path": "/andrahandsuthyrning",
+        "order": 5
+      }
+    ]
   },
   {
     "id": "fastigheten",

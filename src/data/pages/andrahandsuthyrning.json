@@ -1,0 +1,30 @@
+{
+  "id": "andrahandsuthyrning",
+  "title": "Andrahandsuthyrning",
+  "sections": [
+    {
+      "type": "text",
+      "content": "Vid ansökan om andrahandsuthyrning skall bifogad blankett fyllas i och skickas eller mailas till brf. styrelse."
+    },
+    {
+      "type": "heading",
+      "content": "Ansökan",
+      "level": 2
+    },
+    {
+      "type": "info-box",
+      "highlight": true,
+      "items": [
+        {
+          "label": "Kontakt",
+          "value": "Kontakta styrelsen för blankett och ansökan",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Se hemsidans startsida för kontaktuppgifter till styrelsen."
+    }
+  ]
+}

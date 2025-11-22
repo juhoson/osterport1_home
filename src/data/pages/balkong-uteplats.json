@@ -1,0 +1,69 @@
+{
+  "id": "balkong-uteplats",
+  "title": "Balkong och uteplats",
+  "sections": [
+    {
+      "type": "text",
+      "content": "För att göra balkongen lite extra trevlig är det många som sätter sin personliga prägel på balkongen. Inred din balkong med eftertanke och var aktsam med husets fasad. Vill du sätta upp blomlådor så gör det på insidan av balkongräcket."
+    },
+    {
+      "type": "heading",
+      "content": "Markiser",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Om du vill sätta upp en markis ska den passa till huset och du behöver godkännande av bostadsrättsföreningens styrelse. Styrelsen har tillsammans med arkitekten tagit fram kulör och utformning på markiser i din förening."
+    },
+    {
+      "type": "info-box",
+      "title": "Godkända markiser",
+      "highlight": true,
+      "items": [
+        {
+          "label": "Fabrikat",
+          "value": "Sandatex 407/94",
+          "type": "text"
+        },
+        {
+          "label": "Färg",
+          "value": "Grå-beige",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Tala med styrelsen som kan ge dig råd och anvisningar vart det är förberett för infästning av markisen. Anlita en behörig montör."
+    },
+    {
+      "type": "heading",
+      "content": "Uteplats",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Om du har lägenhet i markplan ansvarar du själv för att sköta om växter och markbeläggning på uteplatsen. Kontakta styrelsen om du har några frågor."
+    },
+    {
+      "type": "heading",
+      "content": "Inglasning av balkong",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "För att få glasa in en balkong krävs bygglov från kommunen och godkännande från bostadsrättsföreningens styrelse."
+    },
+    {
+      "type": "info-box",
+      "highlight": true,
+      "items": [
+        {
+          "label": "⚠️ Krävs",
+          "value": "Bygglov från kommunen + Godkännande från styrelsen",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}

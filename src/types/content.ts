@@ -3,6 +3,7 @@ export interface MenuItem {
   label: string;
   path: string;
   order: number;
+  children?: MenuItem[];
 }
 
 export interface BoardMember {

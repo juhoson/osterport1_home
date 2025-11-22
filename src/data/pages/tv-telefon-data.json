@@ -1,0 +1,113 @@
+{
+  "id": "tv-telefon-data",
+  "title": "TV, telefon och data",
+  "sections": [
+    {
+      "type": "text",
+      "content": "Det finns ett avtal mellan din bostadsrättsförening och Telia om installation av bredband i din bostad. Bredbandsnätet består av en fiberkabel med så kallad Triple Play-funktion som levererar Digital-tv, telefon och Internetanslutning."
+    },
+    {
+      "type": "heading",
+      "content": "Vad ingår",
+      "level": 2
+    },
+    {
+      "type": "info-box",
+      "title": "Inkluderat i Triple Play",
+      "items": [
+        {
+          "value": "En digitalbox (kollektiv box som tillhör bostadsföreningen och levereras till lägenheten före inflyttning)",
+          "type": "text"
+        },
+        {
+          "value": "Abonnemang och telefonadapter som möjliggör upp till fyra telefoner till samma telefonnummer",
+          "type": "text"
+        },
+        {
+          "label": "Internetanslutning",
+          "value": "50/8-100/10 Mbit per sekund",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "info-box",
+      "highlight": true,
+      "items": [
+        {
+          "label": "⚠️ Viktigt",
+          "value": "Digitalboxen och allt som ingår i IT-skåpet tillhör föreningen och ska vara kvar i lägenheten om du flyttar. Digitalboxen är knuten till det avtal som gäller mellan bostadsrättsföreningen och Telia.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Läs mer om TV-paket på:"
+    },
+    {
+      "type": "info-box",
+      "items": [
+        {
+          "label": "Webbplats",
+          "value": "https://www.telia.se/privat/tv/tvpaket/produkt/lagom",
+          "type": "website"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Viktiga punkter för medlemmar",
+      "level": 2
+    },
+    {
+      "type": "list",
+      "items": [
+        "Som nyinflyttad behöver du aktivera tjänsten hos Telia. Du kan även beställa till andra tjänster eller utrustning. Detta gör du hos Telia på 90200.",
+        "Du som boende har rätt till support på utrustning och tjänster från Telia, ring 90200.",
+        "Styrelsen kan inte hjälpa till om det inte är ett större fel som gäller flera hushåll.",
+        "Utrustningen som följde med installationen har föreningen garanti på under hela avtalsperioden och tillhör därmed föreningen. Utrustningen är router samt tv-box inkl. fjärrkontroll.",
+        "Vid utflytt ska utrustningen lämnas kvar i lägenheten då den ägs av föreningen.",
+        "Vid flytt ska även abonnemanget avslutas hos Telia då det är kopplat till varje boende personligen för att kunna använda vissa betaltjänster som Pay per View."
+      ]
+    },
+    {
+      "type": "info-box",
+      "title": "Kontakt Telia",
+      "highlight": true,
+      "items": [
+        {
+          "label": "Telefon",
+          "value": "90200",
+          "type": "phone"
+        },
+        {
+          "value": "För aktivering, support och beställningar",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "IT-skåp",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "I de flesta bostäderna finns IT-skåpet placerad i klädkammaren eller i hallen bredvid el-centralen. I IT-skåpet finns en panel med numrerade uttag, en så kallad patchpanel."
+    },
+    {
+      "type": "text",
+      "content": "I din patchpanel bestämmer du själv vilken funktion nätverksuttagen i respektive rum ska ha. När du flyttar in så är vissa uttag i sovrum, vardagsrum och kök redan aktiverade enligt information på insidan av IT-skåpet, men du kan alltså flytta och ändra fritt till andra uttag."
+    },
+    {
+      "type": "heading",
+      "content": "Felsökning och support",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Se instruktion från Telia eller kontakta Telias support på telefon 90200."
+    }
+  ]
+}

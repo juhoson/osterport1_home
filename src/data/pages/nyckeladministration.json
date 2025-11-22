@@ -1,0 +1,54 @@
+{
+  "id": "nyckeladministration",
+  "title": "Nyckeladministration",
+  "sections": [
+    {
+      "type": "text",
+      "content": "Er förening har ett avtal med låsfirman CERTEGO för nyckelhantering. Detta ökar kontrollen samt tillgängligheten för att tillverka nycklar åt dig som bostadsinnehavare."
+    },
+    {
+      "type": "info-box",
+      "title": "CERTEGO",
+      "items": [
+        {
+          "value": "Pressverksgatan 4",
+          "type": "address"
+        },
+        {
+          "label": "Telefon",
+          "value": "021-10 96 30",
+          "type": "phone"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Ut/in flytt",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Vid försäljning ska nycklarna till bostaden lämnas in på CERTEGO för kontroll och kvitto på inlämnade nycklar erhålls. Ny ägare kvitterar ut nycklarna mot uppvisande av köpekontrakt och legitimation."
+    },
+    {
+      "type": "heading",
+      "content": "Beställning av extra nyckel",
+      "level": 2
+    },
+    {
+      "type": "text",
+      "content": "Extra nycklar till din bostad tillverkas på CERTEGO mot uppvisande av giltig legitimation och köpekontrakt. Medtag den nyckel som ni vill få kopia på."
+    },
+    {
+      "type": "info-box",
+      "highlight": true,
+      "items": [
+        {
+          "label": "Ta med",
+          "value": "Giltig legitimation, köpekontrakt och den nyckel som ska kopieras",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}
