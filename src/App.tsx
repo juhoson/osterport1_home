@@ -45,7 +45,7 @@ function App() {
         {isLoading && <div className="loading">Laddar...</div>}
         {error && <div className="error">{error}</div>}
         {!isLoading && !error && pageContent && (
-          <PageContent content={pageContent} />
+          <PageContent content={pageContent} onNavigate={handleNavigate} />
         )}
       </Layout>
     </div>

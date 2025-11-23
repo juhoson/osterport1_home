@@ -53,13 +53,47 @@
     "id": "fastigheten",
     "label": "Fastigheten",
     "path": "/fastigheten",
-    "order": 4
+    "order": 4,
+    "children": [
+      {
+        "id": "gastlagenhet",
+        "label": "Gästlägenheten",
+        "path": "/gastlagenhet",
+        "order": 1
+      },
+      {
+        "id": "sophantering",
+        "label": "Sophantering och källsortering",
+        "path": "/sophantering",
+        "order": 2
+      },
+      {
+        "id": "parkering",
+        "label": "Parkering",
+        "path": "/parkering",
+        "order": 3
+      },
+      {
+        "id": "bildgalleri",
+        "label": "Bildgalleri från bygget",
+        "path": "/bildgalleri",
+        "order": 4
+      }
+    ]
   },
   {
     "id": "foreningen",
     "label": "Föreningen",
     "path": "/foreningen",
-    "order": 5
+    "order": 5,
+    "children": [
+      {
+        "id": "stadgar",
+        "label": "Stadgar",
+        "path": "/stadgar",
+        "order": 1
+      }
+    ]
   },
   {
     "id": "faq",

@@ -1,0 +1,39 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2C5F7C;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1A3A4D;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="64" height="64" fill="url(#bgGrad)" rx="8"/>
+
+  <!-- Building icon centered -->
+  <g transform="translate(12, 10)">
+    <!-- Main building structure with brick texture -->
+    <rect x="0" y="10" width="40" height="44" fill="#A0503C" rx="2"/>
+
+    <!-- Brick pattern lines -->
+    <line x1="0" y1="16" x2="40" y2="16" stroke="#8B4236" stroke-width="0.5"/>
+    <line x1="0" y1="22" x2="40" y2="22" stroke="#8B4236" stroke-width="0.5"/>
+    <line x1="0" y1="28" x2="40" y2="28" stroke="#8B4236" stroke-width="0.5"/>
+    <line x1="0" y1="34" x2="40" y2="34" stroke="#8B4236" stroke-width="0.5"/>
+    <line x1="0" y1="40" x2="40" y2="40" stroke="#8B4236" stroke-width="0.5"/>
+    <line x1="0" y1="46" x2="40" y2="46" stroke="#8B4236" stroke-width="0.5"/>
+
+    <!-- Windows -->
+    <rect x="6" y="16" width="8" height="8" fill="#E8F1F5" rx="1"/>
+    <rect x="26" y="16" width="8" height="8" fill="#E8F1F5" rx="1"/>
+    <rect x="6" y="28" width="8" height="8" fill="#E8F1F5" rx="1"/>
+    <rect x="26" y="28" width="8" height="8" fill="#E8F1F5" rx="1"/>
+    <rect x="6" y="40" width="8" height="8" fill="#E8F1F5" rx="1"/>
+    <rect x="26" y="40" width="8" height="8" fill="#E8F1F5" rx="1"/>
+
+    <!-- Door -->
+    <rect x="15" y="45" width="10" height="9" fill="#2C3E50" rx="1"/>
+
+    <!-- Roof accent -->
+    <path d="M -2 10 L 20 0 L 42 10" stroke="#E8F1F5" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

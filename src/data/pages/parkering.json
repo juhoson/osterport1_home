@@ -1,0 +1,29 @@
+{
+  "id": "parkering",
+  "title": "Parkering",
+  "sections": [
+    {
+      "type": "text",
+      "content": "Bostadsrättsföreningen ska ingå avtal om förhyrning av 34 parkeringsplatser i parkeringshus inom fastigheten Mimer 6, som föreningen i sin tur hyr ut till sina medlemmar."
+    },
+    {
+      "type": "text",
+      "content": "För att lägga dig i kö för parkering, kontakta mbf på https://mbf.se/kontakta-oss/, välj kategori parkeringskö. Det finns inga besöksparkeringar som tillhör bostadsrättsföreningen."
+    },
+    {
+      "type": "heading",
+      "content": "Styrelseansvarig för parkering",
+      "level": 2
+    },
+    {
+      "type": "board-members",
+      "items": [
+        {
+          "name": "Åsa Sandberg",
+          "role": "Ledamot / Parkeringsansvarig",
+          "phone": "+46 762 68 73 53"
+        }
+      ]
+    }
+  ]
+}

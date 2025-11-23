@@ -4,6 +4,58 @@
   "sections": [
     {
       "type": "heading",
+      "content": "Varför är det så kallt i lägenheten?",
+      "level": 3
+    },
+    {
+      "type": "text",
+      "content": "Vintertid ska temperaturen i din lägenhet hålla ca 21 grader (detta är en grad över Socialstyrelsens rekommendation). Du mäter temperaturen i din lägenhet en meter från vägg och ca en meter från golvet. Om inomhustemperaturen ändå är lägre kan du kontrollera att inget täcker för termostat och element såsom möbler, gardiner eller elementskydd, vilket förhindrar att värmen sprider sig i rummet. Har du säkerställt detta och temperaturen ändå uppmäter en lägre temperatur?"
+    },
+    {
+      "type": "heading",
+      "content": "Det drar kallt bakom elementen, varför?",
+      "level": 3
+    },
+    {
+      "type": "text",
+      "content": "I din bostad tillförs bostadens friskluft utifrån genom tilluftsdon som är placerade bakom elementen. Elementet värmer upp den tillförda uteluften samtidigt som luften har en avkylande effekt på elementet. Detta kan kännas vid den nedre delen av elementet och gör även att golvet precis under tilluftsdonet kan upplevas kallt, vilket är helt normalt."
+    },
+    {
+      "type": "text",
+      "content": "Obs! Stäng inte av ditt element vintertid då elementet kan frysa sönder av den kalla uteluften."
+    },
+    {
+      "type": "heading",
+      "content": "Det är kallt på golvet, varför?",
+      "level": 3
+    },
+    {
+      "type": "text",
+      "content": "Vintertid ska temperaturen i din lägenhet hålla ca 21 grader (vilket är en grad över Socialstyrelsens rekommendation). Temperaturen mäts en meter från vägg och ca en meter från golvet. Vintertid, när det är kallt ute sker alltid ett visst kallras från ytterväggarna in i din lägenhet, framförallt via fönstren. Kall luft som är lättare än varm luft trycks ned mot golvet medan den varma luften stiger uppåt. Eftersom din lägenhet inte är utrustad med golvvärme blir temperaturen vid golvnivå då något lägre än i vistelsezonen."
+    },
+    {
+      "type": "heading",
+      "content": "En säkring har gått, vad gör jag?",
+      "level": 3
+    },
+    {
+      "type": "text",
+      "content": "I din lägenhet har du ett el-centralskåp där all el kommer in i bostaden. Från skåpet leds sedan elen ut i din lägenhet. I skåpet sitter automatsäkringar (vilka har ersatt den äldre typen av säkringar som skruvas fast)."
+    },
+    {
+      "type": "text",
+      "content": "När en automatsäkring är tillslagen pekar brytaren uppåt, om säkringen löser ut pekar brytaren neråt. Säkringen behöver inte bytas utan återställs genom att trycka upp brytaren igen. Om en automatsäkring löser ut ska du ta reda på orsaken innan säkringen slås på igen."
+    },
+    {
+      "type": "text",
+      "content": "Exakt var varje säkring är kopplad framgår av ett schema som finns på insidan av luckan till elcentralskåpet."
+    },
+    {
+      "type": "text",
+      "content": "Huvudsäkringen till lägenheten sitter vid din mätartavla i källaren. Om alla säkringar i lägenheten är hela så är kan det vara en huvudsäkring som har löst ut. Dessa säkringar byter man själv och är av den gamla modellen (porslinssäkring)."
+    },
+    {
+      "type": "heading",
       "content": "Hur kontaktar jag styrelsen?",
       "level": 3
     },

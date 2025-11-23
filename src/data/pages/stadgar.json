@@ -1,0 +1,20 @@
+{
+  "id": "stadgar",
+  "title": "Stadgar",
+  "sections": [
+    {
+      "type": "text",
+      "content": "Stadgar är de regler som styr hur bostadsrättsföreningen ska drivas. De anger bland annat hur styrelsen ska väljas, hur stämmor ska genomföras, vilka rättigheter och skyldigheter medlemmarna har, samt hur beslut fattas i föreningen."
+    },
+    {
+      "type": "text",
+      "content": "Stadgarna är ett juridiskt bindande dokument som alla medlemmar i föreningen måste följa. De kan endast ändras genom beslut på föreningsstämma med kvalificerad majoritet."
+    },
+    {
+      "type": "document-link",
+      "title": "Stadgar för Brf Österport 1",
+      "url": "/documents/Stadgar BFR Österport 1.pdf",
+      "linkText": "Ladda ner stadgar (PDF)"
+    }
+  ]
+}

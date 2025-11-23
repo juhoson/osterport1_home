@@ -1,15 +1,42 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { ContentSection as ContentSectionType, BoardMember, NewsItem, InfoBoxItem } from '../types/content';
 import BoardMembers from './BoardMembers';
 import NewsItems from './NewsItems';
+import NewsSnippet from './NewsSnippet';
 import InfoBox from './InfoBox';
+import ImageLightbox from './ImageLightbox';
 import './ContentSection.css';
 
 interface ContentSectionProps {
   section: ContentSectionType;
+  onNavigate?: (path: string) => void;
 }
 
-const ContentSection: React.FC<ContentSectionProps> = ({ section }) => {
+const ContentSection: React.FC<ContentSectionProps> = ({ section, onNavigate }) => {
+  const [lightboxOpen, setLightboxOpen] = useState(false);
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+
+  const handleImageClick = (index: number) => {
+    setCurrentImageIndex(index);
+    setLightboxOpen(true);
+  };
+
+  const handleCloseLightbox = () => {
+    setLightboxOpen(false);
+  };
+
+  const handleNextImage = () => {
+    if (section.images && currentImageIndex < section.images.length - 1) {
+      setCurrentImageIndex(currentImageIndex + 1);
+    }
+  };
+
+  const handlePreviousImage = () => {
+    if (currentImageIndex > 0) {
+      setCurrentImageIndex(currentImageIndex - 1);
+    }
+  };
+
   switch (section.type) {
     case 'heading':
       const headingLevel = section.level || 2;
@@ -36,15 +63,42 @@ const ContentSection: React.FC<ContentSectionProps> = ({ section }) => {
 
     case 'image-gallery':
       return (
-        <div className="section-gallery">
-          {section.images?.map((image, index) => (
-            <img key={index} src={image} alt={`Construction ${index + 1}`} />
-          ))}
-        </div>
+        <>
+          <div className="section-gallery">
+            {section.images?.map((image, index) => (
+              <img
+                key={index}
+                src={image}
+                alt={`Construction ${index + 1}`}
+                onClick={() => handleImageClick(index)}
+                style={{ cursor: 'pointer' }}
+              />
+            ))}
+          </div>
+          {lightboxOpen && section.images && (
+            <ImageLightbox
+              images={section.images}
+              currentIndex={currentImageIndex}
+              onClose={handleCloseLightbox}
+              onNext={handleNextImage}
+              onPrevious={handlePreviousImage}
+            />
+          )}
+        </>
       );
 
     case 'news-list':
       return <NewsItems items={section.items as NewsItem[]} />;
+
+    case 'news-snippet':
+      return (
+        <NewsSnippet
+          items={section.items as NewsItem[]}
+          maxItems={section.maxItems}
+          linkToFull={section.linkToFull}
+          onNavigate={onNavigate}
+        />
+      );
 
     case 'document-link':
       return (

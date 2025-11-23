@@ -1,0 +1,18 @@
+{
+  "id": "sophantering",
+  "title": "Sophantering och källsortering",
+  "sections": [
+    {
+      "type": "text",
+      "content": "Genom källsortering och återvinning utvinns användbar råvara och energi ur hushållets avfall. Detta ger stora miljövinster. Alla kan bidra till effektiv återvinning av material och energi genom att källsortera, det mesta av ditt hushållsavfall går att återvinna eller återanvända."
+    },
+    {
+      "type": "text",
+      "content": "Varje bostad är utrustad med kärl för källsortering av hushållsavfall under diskbänken. Avfallet lämnas i en gemensam miljöstation vid intilliggande bostadsrättsförening."
+    },
+    {
+      "type": "text",
+      "content": "I miljöstationen sorteras förutom komposterbart och brännbart även tidningar, glas, pappersförpackningar, metallförpackningar, plastförpackningar och batterier."
+    }
+  ]
+}

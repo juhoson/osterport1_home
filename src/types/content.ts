@@ -26,7 +26,7 @@ export interface InfoBoxItem {
 }
 
 export interface ContentSection {
-  type: 'text' | 'heading' | 'board-members' | 'image-gallery' | 'list' | 'news-list' | 'document-link' | 'info-box' | 'contact-card';
+  type: 'text' | 'heading' | 'board-members' | 'image-gallery' | 'list' | 'news-list' | 'news-snippet' | 'document-link' | 'info-box' | 'contact-card';
   content?: string;
   title?: string; // for info-box or contact-card
   level?: number; // for headings: 1-6
@@ -35,6 +35,8 @@ export interface ContentSection {
   url?: string; // for document links
   linkText?: string; // for document links
   highlight?: boolean; // for info-box highlighting
+  maxItems?: number; // for news-snippet: limit number of items shown
+  linkToFull?: string; // for news-snippet: link to full news page
 }
 
 export interface PageContent {

@@ -1,0 +1,34 @@
+{
+  "id": "gastlagenhet",
+  "title": "Gästlägenheten",
+  "sections": [
+    {
+      "type": "text",
+      "content": "Nu finns det möjlighet att hyra ut en gästlägenhet från Österport 5."
+    },
+    {
+      "type": "text",
+      "content": "Se aktuella rutiner för uthyrning på Österport 5:s hemsida:"
+    },
+    {
+      "type": "info-box",
+      "items": [
+        {
+          "label": "Hemsida",
+          "value": "https://osterport5.smartbrf.se/gaestlaegenheten",
+          "type": "website"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Från och med årskiftet 2021-2022 kommer debiteringen att ske i samband med ordinarie hyra pga skatteregler."
+    },
+    {
+      "type": "image-gallery",
+      "images": [
+        "/gastlagenhet_osterport5.png"
+      ]
+    }
+  ]
+}
